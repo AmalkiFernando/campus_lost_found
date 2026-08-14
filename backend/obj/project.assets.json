@@ -2545,19 +2545,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\03cri\\.nuget\\packages\\": {}
+    "C:\\Users\\mgkis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\03cri\\Documents\\git\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
+      "projectUniqueName": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
       "projectName": "CampusLostFound.Api",
-      "projectPath": "C:\\Users\\03cri\\Documents\\git\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
-      "packagesPath": "C:\\Users\\03cri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\03cri\\Documents\\git\\campus_lost_found\\backend\\obj\\",
+      "projectPath": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
+      "packagesPath": "C:\\Users\\mgkis\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\03cri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mgkis\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2575,6 +2575,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2615,7 +2620,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.129/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.424/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

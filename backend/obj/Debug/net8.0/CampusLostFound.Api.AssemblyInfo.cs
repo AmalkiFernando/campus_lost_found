@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusLostFound.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708676111faad21e40c91c25a06c6f4d5f0222e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+412c44e5dc3e890e1fd50267098613505492722b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampusLostFound.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusLostFound.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
