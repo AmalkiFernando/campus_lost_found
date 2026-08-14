@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OFuX7fLC1WxtZloj0qPLw29Jjo9ZnEVl6zdu3DxaDIA=",
+  "Source": "CampusLostFound.Api",
+  "BasePath": "_content/CampusLostFound.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
