@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pq1GghvZMY8=",
+  "dgSpecHash": "Bib3Am+EIGQ=",
   "success": true,
-  "projectFilePath": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
+  "projectFilePath": "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mgkis\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mgkis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

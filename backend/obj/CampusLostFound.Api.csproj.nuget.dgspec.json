@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj": {}
+    "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj": {
+    "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
+        "projectUniqueName": "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
         "projectName": "CampusLostFound.Api",
-        "projectPath": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
+        "projectPath": "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\CampusLostFound.Api.csproj",
         "packagesPath": "C:\\Users\\mgkis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\obj\\",
+        "outputPath": "C:\\Users\\mgkis\\OneDrive\\Documents\\Y3S1\\Mini-Hackathon-1\\campus_lost_found\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mgkis\\AppData\\Roaming\\NuGet\\NuGet.Config"

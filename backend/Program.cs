@@ -42,6 +42,15 @@ if (string.IsNullOrWhiteSpace(connectionString))
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(connectionString));
 
+// Cloud hosts like Railway assign a dynamic port via the PORT env var and route
+// external traffic to it; bind Kestrel there when present, otherwise leave
+// launchSettings.json / defaults in charge (local dev).
+var port = Environment.GetEnvironmentVariable("PORT");
+if (!string.IsNullOrWhiteSpace(port))
+{
+    builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+}
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
